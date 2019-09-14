@@ -15,3 +15,4 @@ STEPS to integrate Slack Channel to Icinga Notification System:
 We can use the same App with multiple webhook url for different channels.
 
 Enjoy.
+ 
